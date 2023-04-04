@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Tea box",
+            "price": 600,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. At velit iusto commodi eveniet atque voluptatibus, voluptas nesciunt excepturi! Hic, aliquam! Id, quia placeat veniam sint est fugiat.",
+            "category": "tea set",
+            "image": "https://cdn.create.vista.com/api/media/medium/109486262/stock-photo-the-tea-box?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        },
+        {
+            "id": 2,
+            "title": "Black tea",
+            "price": 150,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. At velit iusto commodi eveniet atque voluptatibus, voluptas nesciunt excepturi! Hic, aliquam! Id, quia placeat veniam sint est fugiat.",
+            "category": "black tea",
+            "image": "https://cdn.create.vista.com/api/media/medium/105156738/stock-photo-dry-loose-tea-hibiscus-isolated?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        },
+        {
+            "id": 3,
+            "title": "Green tea",
+            "price": 100,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. At velit iusto commodi eveniet atque voluptatibus, voluptas nesciunt excepturi! Hic, aliquam! Id, quia placeat veniam sint est fugiat. Tempore, minus autem.",
+            "category": "green tea",
+            "image": "https://cdn.create.vista.com/api/media/medium/171283964/stock-photo-herbal-mulberry-organic-green-tea?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        },
+        {
+            "id": 4,
+            "title": "Black tea",
+            "price": 100,
+            "description": "Tempore, minus autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quo soluta aut consectetur, natus voluptates sequi laboriosam quas quae sunt asperiores labore sint magni repellendus recusandae optio similique eveniet illum.",
+            "category": "black tea",
+            "image": "https://cdn.create.vista.com/api/media/medium/178164636/stock-photo-dried-flowers-buds-organic-tea?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        },
+        {
+            "id": 5,
+            "title": "Green tea",
+            "price": 150,
+            "description": " Tempore, minus autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quo soluta aut consectetur, natus voluptates sequi laboriosam quas quae sunt asperiores labore sint magni repellendus recusandae optio similique eveniet illum.",
+            "category": "green tea",
+            "image": "https://cdn.create.vista.com/api/media/medium/588521342/stock-photo-dry-gynostemma-pentaphyllum-leaf-isolated?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        },
+        {
+            "id": 6,
+            "title": "Herbal tea set",
+            "price": 350,
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quo soluta aut consectetur, natus voluptates sequi laboriosam quas quae sunt asperiores labore sint magni repellendus recusandae optio similique eveniet illum.",
+            "category": "tea set",
+            "image": "https://cdn.create.vista.com/api/media/medium/92171798/stock-photo-dried-herbal-tea-set?token=",
+            "rating": {
+                "rate": 5,
+                "count": 10
+            }
+        }
+    ]
+}
