@@ -51,7 +51,7 @@
             "price": 100,
             "description": "Tempore, minus autem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore quo soluta aut consectetur, natus voluptates sequi laboriosam quas quae sunt asperiores labore sint magni repellendus recusandae optio similique eveniet illum.",
             "category": "black tea",
-            "image": [
+            "images": [
                 "https://cdn.create.vista.com/api/media/medium/129655960/stock-photo-heap-of-dry-tea?token=",
                 "https://cdn.create.vista.com/api/media/medium/178164636/stock-photo-dried-flowers-buds-organic-tea?token="
             ],
